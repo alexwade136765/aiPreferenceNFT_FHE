@@ -1,4 +1,4 @@
-```markdown
+
 # AI Preference NFT: Your Personal AI Customization Companion 🚀
 
 The **AI Preference NFT** uniquely represents FHE-encrypted personal preferences for AI customization, empowering users to dictate how they interact with AI applications. By harnessing **Zama's Fully Homomorphic Encryption technology**, this project guarantees that your preferences remain private and secure while enabling a seamless AI experience across platforms.
